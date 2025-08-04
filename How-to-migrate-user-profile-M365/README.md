@@ -52,3 +52,6 @@
 
 11. **System Restart**  
    - The system will automatically **restart** and load the new migrated account.
+
+
+Thats how you do it!
