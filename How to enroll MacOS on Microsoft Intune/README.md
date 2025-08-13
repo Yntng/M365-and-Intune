@@ -64,7 +64,7 @@
 
 3. Then **Enrollment**
 
-![Alt text](images/Admin%20.png)
+![Alt text](images/Enrollment.png)
 
 4. Then to **Enrollment Program Tokens**
 
