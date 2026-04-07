@@ -1,5 +1,8 @@
 # User Profile Migration Guide
 
+# Enroll the device to Intune FIRST → then run ForensiT profile migration
+This is the recommended and safest approach with ProfWiz.
+
 1. **Download the User Profile Wizard**  
    - Search for "ForensiT" on Google or go to [Forensit.com](https://www.forensit.com) to download the User Profile Wizard.
 
