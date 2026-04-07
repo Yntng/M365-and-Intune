@@ -1,6 +1,6 @@
 # User Profile Migration Guide
 
-# Enroll the device to Intune FIRST → then run ForensiT profile migration
+# Enroll the device into Intune first using an administrator account → sign in once with the new Intune (Entra ID) user account to complete initial profile setup → sign out → switch back to the local administrator account and run ForensiT (ProfWiz) to migrate the profile.
 This is the recommended and safest approach with ProfWiz.
 
 1. **Download the User Profile Wizard**  
