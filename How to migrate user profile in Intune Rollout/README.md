@@ -102,7 +102,9 @@ This is the recommended and safest approach with ProfWiz.
 
 - Verify that the device is properly enrolled in Microsoft Intune and that the required company policies and applications have been applied.
 
-**⚠️ Warning: Do Not Skip Step 2**
+
+
+# **⚠️ Warning: Do Not Skip Step 2**
 
 Complete the initial sign-in with the new Microsoft Entra ID user account and finish the required Company Portal setup before proceeding to Step 3.
 
